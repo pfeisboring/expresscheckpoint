@@ -1,0 +1,11 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+.imgg {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+  text-align: center;
+}
